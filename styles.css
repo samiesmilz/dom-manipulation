@@ -1,0 +1,9 @@
+body {
+  background-color: aliceblue;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  margin: 20px;
+}
+
+.li-background {
+  background-color: green;
+}
